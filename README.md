@@ -58,7 +58,7 @@ docker push <usuario-dockerhub>/<nombre-de-imagen>:latest
 
 (ejemplo:
 docker tag mi_usuario/morse-api mi_usuario/morse-api:latest
-docker push <usuario-dockerhub>/<nombre-de-imagen>:latest
+docker push mi_usuario/morse-api:latest
 )
 ```
 
